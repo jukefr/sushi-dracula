@@ -1,5 +1,5 @@
 function fish_prompt
-	set -l symbol "λ "
+	set -l symbol "> "
 	set -l code $status
 
 	if test -n "$ssh_client"
