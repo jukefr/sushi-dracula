@@ -1,11 +1,11 @@
 <div align="center">
-  <a href="http://github.com/oh-my-fish/oh-my-fish">
-  <img width=90px  src="https://cloud.githubusercontent.com/assets/8317250/8510172/f006f0a4-230f-11e5-98b6-5c2e3c87088f.png">
+  <a href="https://github.com/jukefr/sushi-dracula">
+  <img width=90px  src="https://cloud.githubusercontent.com/assets/8317250/8510172/f00">
   </a>
 </div>
 <br>
 
-> 🍣 Sushi theme for [Oh My Fish][omf-link].
+> 🍣 Sushi-Dracula theme for [Oh My Fish][omf-link].
 
 ## Install
 
