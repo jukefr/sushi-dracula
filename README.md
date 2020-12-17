@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/jukefr/sushi-dracula">
-  <img width=90px  src="https://cloud.githubusercontent.com/assets/8317250/8510172/f00">
+  <img width=90px  src="https://draculatheme.com/static/icons/pack-1/045-dracula.svg">
   </a>
 </div>
 <br>
